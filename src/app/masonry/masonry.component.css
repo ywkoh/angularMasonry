@@ -1,0 +1,13 @@
+
+.container {
+  display: grid;
+  grid-gap: 15px;
+  grid-template-columns: repeat(auto-fill, minmax(150px,1fr));
+  grid-auto-rows: 5px;
+}
+.card {
+  padding: 16px;
+  border: 1px solid #e5e5e5;
+}
+
+.title img{width:100%}

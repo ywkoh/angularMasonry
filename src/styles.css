@@ -1,1 +1,4 @@
 /* You can add global styles to this file, and also import other style files */
+* {margin:0;padding:0;}
+html, body {width:100%;height:100%;left:0;font-size:13px;font-family:'나눔고딕',NanumGothic,'맑은고딕','Malgun Gothic','돋움',Dotum,'굴림',Gulim,Helvetica,sans-serif;color: #333;-webkit-text-size-adjust: none;}
+
